@@ -1,0 +1,6 @@
+<svg aria-hidden="true" focusable="true" class="icon" role="img" xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 512 448">
+  <path class="icon-path" d="M64,80 a16,16 0,0,1 16,-16 l352,0 a16,16 0,0,1 16,16 l0,24 a16,16 0,0,1 -16,16 l-352,0 a16,16 0,0,1 -16,-16 l0,-24"></path>
+  <path class="icon-path" d="M64,212 a16,16 0,0,1 16,-16 l352,0 a16,16 0,0,1 16,16 l0,24 a16,16 0,0,1 -16,16 l-352,0 a16,16 0,0,1 -16,-16 l0,-24"></path>
+  <path class="icon-path" d="M64,342 a16,16 0,0,1 16,-16 l352,0 a16,16 0,0,1 16,16 l0,24 a16,16 0,0,1 -16,16 l-352,0 a16,16 0,0,1 -16,-16 l0,-24"></path>
+</svg>
